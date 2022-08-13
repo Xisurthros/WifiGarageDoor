@@ -15,7 +15,7 @@
 > Relay: Elegoo 4 Channel Relay
 > * https://www.elegoo.com/products/elegoo-8-channel-relay-module-kit
 > * I used the 4 channel version of this realy. As I plan to add future automation.
-> * For this project you only need a 1 channel relay. You can sub an 5V relay into this project.
+> * For this project you only need a 1 channel relay. You can sub any 5V relay into this project.
 >
 > Power: Elegoo Power Supply Module
 > * https://www.amazon.com/JBtek-Breadboard-Supply-Arduino-Solderless/dp/B010UJFVTU
