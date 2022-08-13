@@ -3,7 +3,7 @@
 
 ### Important
 > Change 'ssid' and 'password' in the code to your ssid and password.\
-> If you use the same wifi module as I do. It can only connect to 2.4GHz. It will **NOT** work on 5GHZ.\
+> If you use the same wifi module as I do. It can only connect to 2.4GHz. It will **NOT** work on 5GHz.\
 > Replace the power from the relay to connect with your garage door PowerIn pin and connect GND to the garage door GND pin.
 
 ### Parts
